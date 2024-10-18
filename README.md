@@ -17,6 +17,5 @@ C:\Program Files (x86)\OpenText\UFT One\bin\UFTBatchRunner.exe -source G:\UFT Pr
 
 - **Results Reporting**: Test results are captured and reported back in Jenkins, allowing for easy tracking of test status.
 
-### Screenshots
 
 
