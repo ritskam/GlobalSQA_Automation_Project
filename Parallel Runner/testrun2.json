@@ -1,0 +1,23 @@
+{
+  "ReportPath": "G:\\UFT Projects\\GlobalSqa_Automation_Project\\Results\\Reports",
+  "ReportName": "report1",
+  "ParallelRuns": [
+    {
+      "TestRunName": "1",
+      "Test": "G:\\UFT Projects\\GlobalSqa_Automation_Project\\Scripts\\TestScripts\\DTS_LoginTest",
+      "Env": {
+        "Web": {
+          "Browser": "Chrome"
+        }
+      },
+      "ReportSuffix": "run1",
+      "DataTable": "G:\\UFT Projects\\GlobalSqa_Automation_Project\\TestData\\InputDataForRigistrationForm.xlsx",
+      "TestParameter": {
+        "c1": "true"
+      },
+      "Condition": {
+        "WaitSeconds": 2
+      }
+    }
+  ]
+}

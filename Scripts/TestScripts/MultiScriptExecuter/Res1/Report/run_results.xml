@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>The operation failed because the application is busy</Name>
+    <ErrorText>The operation failed because the application is busy</ErrorText>
+    <Description>&lt;BR/&gt;Line (16): &amp;quot;qtApp.Open &amp;quot;G:\UFT Projects\GlobalSqa_Automation_Project\Scripts\TestScripts\DTS_LoginTest&amp;quot;, False&amp;quot;.</Description>
+    <StartTime>2024-10-06 15:09:24</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[Action1]]></ModuleName>
+          <FileName><![CDATA[Action1]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[qtApp.Open "G:\UFT Projects\GlobalSqa_Automation_Project\Scripts\TestScripts\DTS_LoginTest", False]]></Scripts>
+          <LineNo><![CDATA[16]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>553101c11ff5487384879fdd29f9a076</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\6bcee060-648e-4da9-9683-cd576ee20a0e.jpeg" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">

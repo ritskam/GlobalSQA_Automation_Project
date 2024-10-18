@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'G:\\UFT Projects\\GlobalSqa_Automation_Project\\Scripts\\TestScripts\\AngularJS_PracticeSet_RegistrationForm\\Res5',namePairs:[]}]};
